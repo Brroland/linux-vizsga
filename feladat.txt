@@ -1,9 +1,10 @@
-1. operációs rendszer
+1. linux operációs rendszer röviden
 3. stdin - alapértelmezett bevitel billentyüzet
-4. 
-5. bin
+   stdout - alapértelmezet kimenet, ami a kijelző
+4. virtuális  eszközök
+5. 	bin rednszer mappa
 	etc rendszer változók
-	usr
+	usr telepített fájlok mappája
 	home felhasználó fáljai, könyvtárai
 6. rejtett fájlokat
 7. relatív ~/progalap/linux-vizsga
