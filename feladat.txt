@@ -1,0 +1,11 @@
+1. operációs rendszer
+3. stdin - alapértelmezett bevitel billentyüzet
+4. 
+5. bin
+	etc rendszer változók
+	usr
+	home felhasználó fáljai, könyvtárai
+6. rejtett fájlokat
+7. relatív ~/progalap/linux-vizsga
+	abszolút útvunol ./home/roland/progalap/linuxvizsga/
+
